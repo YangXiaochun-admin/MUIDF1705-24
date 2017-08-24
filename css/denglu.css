@@ -1,0 +1,100 @@
+.box{
+	width: 100%;
+	height: auto;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: auto;
+	background-color: #22D6BB;
+	background-image: url('../img/beijing.png');
+	background-size: 100% auto;
+	
+}
+header{
+	width: 100%;
+	height: 1rem;
+	background-color: orange;
+	padding: 0 .24rem;
+	overflow: hidden;
+}
+.head-back{
+	width: .4rem;
+	height: .4rem;
+	background-color: #fff;
+	margin-top: .3rem;
+	float: left;
+}
+.head-center{
+	width: 1.1rem;
+	height: .5rem;
+	background-color: #fff;
+	float: left;
+	margin-top: .25rem;
+	margin-left: 2.7rem; 
+}
+#content{
+	width: 6.24rem;
+	height: 0.88rem;
+	background-color: pink;
+	margin-left: .63rem;
+}
+#neirong{
+	width: 6.24rem;
+	height: 6.39rem;
+	background-color: #fff;
+	margin-left: .63rem;
+	margin-top: 1.43rem;
+	position: relative;
+}
+.neirong-yuan{
+	width: 2.34rem;
+	height: 2.34rem;
+	background-color: #fff;
+	border-radius: 50%;
+	position: absolute;
+	top: -1.17rem;
+	left: 1.95rem;
+	padding: 0.02rem;
+	border: 0.18rem solid rgba(35, 194, 174, 1);
+}
+.neirong-user{
+	width: 4.5rem;
+	height: .88rem;
+	top: 1.89rem;
+	position: absolute;
+	left: .87rem;
+}
+.neirong-user2{
+	width: 4.5rem;
+	height: .88rem;
+	top: 3rem;
+	position: absolute;
+	left: .87rem;
+}
+.neirong-user3{
+	width: 4.5rem;
+	height: .88rem;
+	top: 4.1rem;
+	position: absolute;
+	left: .87rem;
+}
+.neirong-user-zi{
+	width: 100%;
+	height: .2rem;
+	font-family: "San Francisco Display";
+	font-size: .3rem;
+	line-height: .2rem;
+}
+.neirong-user-kuang{
+	width: 100%;
+	height: .45rem;
+	display: block;
+	margin-top: .23rem;
+}
+.neirong-user-kuang input{
+	display: block;
+	width: 100%;
+	height: 100%;
+}
