@@ -1,0 +1,160 @@
+.box{
+	width: 100%;
+	height: auto;
+	background-color: red;
+	position: absolute;
+	top: 0;
+	left:0;
+	right: 0;
+	bottom: 0;
+	margin: auto;
+	background-image:  url('../img/beijing@2x.png');
+	background-size: 100% auto;
+}
+header{
+	width: 100%;
+	height: .89rem;
+	padding: 0 .24rem;
+	overflow: hidden;
+}
+.head-fanhui{
+	width: .14rem;
+	height: .26rem;
+	margin-top: .33rem;
+	float: left;
+}
+.head-zhuce{
+	width: .97rem;
+	height: .42rem;
+	float: right;
+	margin-top: .22rem;
+	border-radius: .9rem;
+	border: .02rem solid #fff ;
+}
+.wenzi{
+	font-family: "苹方";
+	font-size: .18rem;
+	text-align: center;
+	line-height: .44rem;
+	color: #fff;
+}
+#touxaing{
+	height: 1.82em;
+	width: 1.82em;
+	margin: 0 auto;
+	margin-top: 1.62rem;
+}
+#shouji{
+	width: 5.66rem;
+	height: .83rem;
+	border-radius: .9rem; 
+ 	margin-left: .91rem;
+ 	margin-top: .54rem;
+ 	border: .03rem solid #fff ;
+ 	position: relative;
+ 	color: #fff;
+}
+.shouji-1{
+	height: .37rem;
+	width: .37rem;
+	margin-left: .19rem;
+	margin-top: .21rem;
+}
+
+#mima{
+	width: 5.66rem;
+	height: .83rem;
+	border-radius: .9rem; 
+ 	margin-left: .91rem;
+ 	margin-top: .4rem;
+ 	border: .03rem solid #fff ;
+ 	position: relative;
+}
+.mima-1{
+	height: .37rem;
+	width: .37rem;
+	margin-left: .19rem;
+	margin-top: .21rem;
+}
+#denglv{
+	width: 5.66rem;
+	height: .83rem;
+	border-radius: .9rem; 
+ 	margin-top: 1.03rem;
+ 	background-color: #f98226;
+ 	margin-left: .91rem;
+ 	
+}
+.user{
+	width: 4rem;
+	height: .37rem;
+	position: absolute;
+	top: 0.2rem;
+	right: 1rem;	
+}
+.username{
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0,0,0,0);
+	border:none;
+	outline: none;
+	color: #fff;
+	font-family:"苹方";
+	font-size:.36rem;
+	display: block;
+}	
+.username1{
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0,0,0,0);
+	border:none;
+	outline: none;
+	color: #fff;
+	font-family:"苹方";
+	font-size:.36rem;
+	display: block;
+	line-height: .83rem;
+}
+.jizhumima{
+	width: 5rem;
+	height: 0.3rem;
+	margin: 0 auto;
+	}
+.jizhu{
+	width: 1.59rem;
+	height: .26rem;
+	float: left;
+	font-size: .26rem;
+	font-family: "苹方","微软雅黑";
+	font-weight: 500;
+	color: #fff;
+}
+.wangji{
+	font-size: .22rem;
+	font-family: "苹方","微软雅黑";
+	font-weight: 800;
+	color: #fff;
+	float: right;
+}
+.disanfang{
+	width: 2.84rem;
+	height: .82rem;
+	margin: 0 auto;
+	margin-top: .7rem;
+}
+.qq{
+	width: .72rem;
+	height: .72rem;
+	float: left;
+}
+.weixin{
+	width: .72rem;
+	height: .72rem;
+	float: left;
+	margin-left: .33rem;
+}
+.weibo{
+	width: .72rem;
+	height: .72rem;
+	float: right;	
+}
